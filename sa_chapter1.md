@@ -25,4 +25,10 @@ Computers accept coded information through input units such as keyboards and thi
 ## Memory Unit
 The function of the memory unit is to store programs and data.
 1. __Primary Memory__
-Also called *main memory*, is a fast memory that operates at electronic speeds. Programs must be stored in this memory while they are being executed.
+Also called *main memory*, is a fast memory that operates at electronic speeds. Programs must be stored in this memory while they are being executed. The memory consists of large number of storage cells, each capable of storing one bit of information and they work in group of fixed size called *words (typical word lengths are 16,32,64 bit)*. A memory in which any location can be accessed in a short and fixed amount of time after specifying its address is called a *random-access memory (RAM)*. The teime required to access one word is *memory access time*.
+2. __Cache Memory__
+Cache basically is a small and faster version of ram. Its used to hold sections of program that are currently executed.
+3. __Second Storage__
+The secondary storage can hold more data and keep them even after it turned off. *Exp= HDD, DVD, CD, USB*
+
+# Arithmetic And Logic Unit
