@@ -32,3 +32,18 @@ Cache basically is a small and faster version of ram. Its used to hold sections 
 The secondary storage can hold more data and keep them even after it turned off. *Exp= HDD, DVD, CD, USB*
 
 # Arithmetic And Logic Unit
+Most computer operations are executed in the *arithmetic and logic unit (ALU)* of the processor. Any arithmetic or logic operation is initiated by bringing the required operands into the processor, where the opration is performed by the *ALU*. Example: if two numbers located in the momery are to be added, they are brought into the processor, and the addition is carried out by the ALU. The sum may then be stored in the momory or retained in the processor for immediate use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
