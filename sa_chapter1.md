@@ -10,4 +10,12 @@
   - Mostly used for weather, engineering simuation and design
   - Grid computers provide a more cost-effective alternative. Which uses large number of personal computers and disk storage units in a high-speed network, called a grid, which is managed as a coordinated computing resouce.
   
-![Basic functional units of a computer](https://vanreus37.github.com/ComputerScience2018-2019/images/1-1.png)
+# Functional Units
+  A computer consists of five functionally independent main parts:
+    - I/O
+      - input
+      - output
+    - momory
+    - Processor
+      - arithmetic and logic    
+      - control units
