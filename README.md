@@ -1,5 +1,4 @@
-# CS 2018-2019 
-
+Live preview
 https://vanreus37.github.io/cs2018-2019/.
 
 
