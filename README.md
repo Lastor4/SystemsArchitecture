@@ -8,9 +8,9 @@ https://vanreus37.github.io/ComputerScience2018-2019/
 * ...
 
 # Personel Notes
-* [Antonia](antonia.md)
-* [Dave](dave.md)
-* [Rania](rania.md)
-* [Sebastian](sebastian.md)
-* [Marta](marta.md)
-* [Surhay](surhay.md)
+* [Antonia](group/antonia.md)
+* [Dave](group/dave.md)
+* [Rania](group/rania.md)
+* [Sebastian](group/sebastian.md)
+* [Marta](group/marta.md)
+* [Surhay](group/surhay.md)
