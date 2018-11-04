@@ -31,8 +31,17 @@ Cache basically is a small and faster version of ram. Its used to hold sections 
 3. __Second Storage__
 The secondary storage can hold more data and keep them even after it turned off. *Exp= HDD, DVD, CD, USB*
 
-# Arithmetic And Logic Unit
+## Arithmetic And Logic Unit
 Most computer operations are executed in the *arithmetic and logic unit (ALU)* of the processor. Any arithmetic or logic operation is initiated by bringing the required operands into the processor, where the opration is performed by the *ALU*. Example: if two numbers located in the momery are to be added, they are brought into the processor, and the addition is carried out by the ALU. The sum may then be stored in the momory or retained in the processor for immediate use.
+1. __Output Unit__
+The output unit is the counterpart of the input unit. Basically it prints stuff.
+2. __Control Unit__
+The control unit carries the signals from one unit to another and senses their states. The control circuits are responsible for generating the *timing signals* that govern the transfers *(I/O Transfers, Data transfers between the processor and the memory)* and determine when a given action is to take place.
+
+* The computer accepts information in the form of programs and data through an input unit and stores it in the momory.
+* Information stored in the memory is fetched under program control into an arithmetic and logic unit, where it is processed.
+* Processed information leaves the computer thourgh an output unit.
+* All activities in the computer are directed by the control unit.
 
 
 
