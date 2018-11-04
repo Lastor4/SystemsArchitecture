@@ -4,7 +4,7 @@
   - Typical applications *(Industrial, home automation, telecommunuciaton products)*
 * Personal Computers: primarily for dedicated individual use.
   - Desktops computers, Workstation computers, Portable and Notebook computers.
-* Servers *and* Enterprise Systems: are large computers that are meant to be shared by a potentially large number of users who access them from some personal computer over a network.
+* Servers *and* Enterprise Systems: are large computers that are meant to be shared by a potentially large number of users who access them  	from some personal computer over a network.
 * Supercomputers *and* Grid Computers:
   - Most expansive and physically largest computers.
   - Mostly used for weather, engineering simuation and design
