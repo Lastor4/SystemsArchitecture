@@ -1,19 +1,10 @@
-# Notes
+# CS 2018-2019 
 
-link to live site https://vanreus37.github.io/cs2018-2019/.
-
-### Markdown
-
-Test
+https://vanreus37.github.io/cs2018-2019/.
 
 ```markdown
-Syntax highligted code block
-
-# Header 1
-## Header 2
-### Header 3
-1. [Systems Architecture](systemsarchitecture.md)
-2. Two
-3. Three
-* Test
-* Test
+# Book A - Summaries
+1. [Systems Architecture Chapter 1](sa_chapter1.md)
+2. [Systems Architecture Appendix A](sa_appendixa.md)
+3. [Systems Architecture Chapter 9](sa_chapter9.md)
+4. ...
