@@ -11,11 +11,18 @@
   - Grid computers provide a more cost-effective alternative. Which uses large number of personal computers and disk storage units in a high-speed network, called a grid, which is managed as a coordinated computing resouce.
   
 # Functional Units
-  A computer consists of five functionally independent main parts:
-    - I/O
-      - input
-      - output
-    - momory
-    - Processor
-      - arithmetic and logic    
-      - control units
+A computer consists of five functionally independent main parts:
+- I/O
+  - input
+  - output
+- momory
+- Processor
+  - arithmetic and logic    
+  - control units
+  
+## Input Unit
+Computers accept coded information through input units such as keyboards and things like that.
+## Memory Unit
+The function of the memory unit is to store programs and data.
+1. __Primary Memory__
+Also called *main memory*, is a fast memory that operates at electronic speeds. Programs must be stored in this memory while they are being executed.
