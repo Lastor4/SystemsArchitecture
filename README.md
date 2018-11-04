@@ -1,5 +1,5 @@
 Live preview
-https://vanreus37.github.io/cs2018-2019/.
+https://vanreus37.github.io/ComputerScience2018-2019/
 
 
 # Book A - Summaries
