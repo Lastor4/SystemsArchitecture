@@ -85,6 +85,12 @@ In addition to the *ALU* and the *control circuitry*, the processor contains a n
       <li>Execution of the program begins when the PC is set to point to the first instruction of the program. The contents of the PC are transferred to the memory along with a Read control signal</li>
       <li>When the addressed word has been fetched from the memory it is loaded into register IR. At this point, the instruciton is ready to be interpreted and executed.</li>
   </ul>
+    </details>
+</details>
+    
+In some cases to respond immediately, execution of the current program must be suspended. To cause this, the device raises an *interrupt* signal, which is a request for service by the processor The processor provides the requested service by executing a program called an *interrupt-service routine*. The processor saves its current state to the memory so that it can continue after the *interrupt-service routine* is completed.
+
+## Number Representation And Arithmetic Operations
 
 
 
