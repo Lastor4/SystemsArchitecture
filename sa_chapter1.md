@@ -67,7 +67,24 @@ This instruction copies the operand in register *R4* to memory location LOC. The
 
 In addition to the *ALU* and the *control circuitry*, the processor contains a number of registers used for several different purposes. The *instruction register (IR)* holds the instruction that is currently being executed. The *program counter (PC)* is another specialized register. It contains the memory address of the next instruction to be fetched and executed. During the execution of an instruction, the contents of the *PC* are updated to correspond to the addres of the next instruciton to be executed.
 
-
+<details open>
+<summary>
+  Details
+  </summary>
+<br>
+  <ul>
+    <li>If a word is to be read from the memory, the interface sends the address of that word to the memory along with a Read control       signal. The interface waits for the word to be retrieved, then transfers it to the appropriate processor register. If a word is to       be written into memory, the interface transfers both the address and the word to the memory along with a write control signal. </li>
+  <ul>
+  <details open>
+  <summary>
+    Operating Steps
+  </summary>
+  <br>
+    <ul>
+      <li>A program must be in the main memory in order for it to be executed (It is often transferred there from secondary storage thorught the input unit)</li>
+      <li>Execution of the program begins when the PC is set to point to the first instruction of the program. The contents of the PC are transferred to the memory along with a Read control signal</li>
+      <li>When the addressed word has been fetched from the memory it is loaded into register IR. At this point, the instruciton is ready to be interpreted and executed.</li>
+  </ul>
 
 
 
