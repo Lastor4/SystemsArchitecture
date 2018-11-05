@@ -87,48 +87,4 @@ In addition to the *ALU* and the *control circuitry*, the processor contains a n
 In some cases to respond immediately, execution of the current program must be suspended. To cause this, the device raises an *interrupt* signal, which is a request for service by the processor The processor provides the requested service by executing a program called an *interrupt-service routine*. The processor saves its current state to the memory so that it can continue after the *interrupt-service routine* is completed.
 
 ## Number Representation And Arithmetic Operations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I need to get some sleep...
