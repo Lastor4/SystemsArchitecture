@@ -1,5 +1,4 @@
-Live preview
-https://vanreus37.github.io/
+
 
 # Systems Architecture 
 ## Important Links
@@ -19,3 +18,20 @@ https://vanreus37.github.io/
 * [Sebastian](group/sebastian.md)
 * [Marta](group/marta.md)
 * [Surhay](group/surhay.md)
+
+# Physical Computing
+## Important Links
+
+## Personal Notes
+* Dave
+* Simone
+* Surhay
+
+## Lab assignments
+* ...
+
+## Reports
+* ...
+
+## Extra
+* ...
