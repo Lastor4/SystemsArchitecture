@@ -1,4 +1,3 @@
-# Systems Architecture 
 ## Important Links
 * [What To Read](sys_arch_wtr.pdf)
 * [What To Solve](sys-arch-wts.pdf)
