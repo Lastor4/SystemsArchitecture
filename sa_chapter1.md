@@ -43,6 +43,61 @@ The control unit carries the signals from one unit to another and senses their s
 * Processed information leaves the computer thourgh an output unit.
 * All activities in the computer are directed by the control unit.
 
+# Basic Operational Concepts
+To perofrm a given task, an appropiate program consisting of a list of instructions is stored in the memory. Individual ınstructions a re brought from the memory into the processor, which executes the specifed operatins. Data to besed as instruction operands are also stored in the memory.
+
+> Load R2, LOC
+
+This instruction reads the contents of a memory location whose address is represented by the label *LOC* and loads them into processor register *R2*. The original contents of location *LOC* are preserved, whereas those of register *R2* are **overwritten**. Steps of executing this instruction.
+1. The operation to be performed is determined by the *control unit.*
+2. The operand at *LOC* is then fetched from the memory into the processor.
+3. The operand is stored in register *R2*
+
+After operands have been loaded from memory into processor registers youcen perform operations on them.
+
+> Add R4, R2, R3
+
+adds the contents of registers R2 and R3, then places their sum into register *R4*. The operands in *R2* and *R3* are not altered, but the previous value in *R4* is **overwritten** by the sum.
+
+After completing desired operations we need to transfer it to the memory using.
+
+> Store R4, LOC
+
+This instruction copies the operand in register *R4* to memory location LOC. The original contents of location *LOC* are **overwritten**, but those of *R4* are preserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
