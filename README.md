@@ -4,7 +4,7 @@
 ## Important Links
 * [What To Read](sys_arch_wtr.pdf)
 * [What To Solve](sys-arch-wts.pdf)
-* [What To Solve](thebook.pdf)
+* [The book](thebook.pdf)
 
 ## Book A - Summaries
 * [Systems Architecture Chapter 1](sa_chapter1.md)
