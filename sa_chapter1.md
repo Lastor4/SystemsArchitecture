@@ -20,6 +20,8 @@ A computer consists of five functionally independent main parts:
   - arithmetic and logic    
   - control units
   
+![alt text](https://github.com/vanreus37/SystemsArchitecture/blob/master/images/onezero.png)
+  
 ## Input Unit
 Computers accept coded information through input units such as keyboards and things like that.
 ## Memory Unit
@@ -65,6 +67,8 @@ After completing desired operations we need to transfer it to the memory using.
 
 This instruction copies the operand in register *R4* to memory location LOC. The original contents of location *LOC* are **overwritten**, but those of *R4* are preserved.
 
+![alt text](https://github.com/vanreus37/SystemsArchitecture/blob/master/images/oneone.png)
+
 In addition to the *ALU* and the *control circuitry*, the processor contains a number of registers used for several different purposes. The *instruction register (IR)* holds the instruction that is currently being executed. The *program counter (PC)* is another specialized register. It contains the memory address of the next instruction to be fetched and executed. During the execution of an instruction, the contents of the *PC* are updated to correspond to the addres of the next instruciton to be executed.
 
 ### Details
@@ -80,9 +84,12 @@ In some cases to respond immediately, execution of the current program must be s
 The most natural way to represent a number in a computer system is by a string of bits,
 called a binary number.
 
+![alt text](https://github.com/vanreus37/SystemsArchitecture/blob/master/images/onetwo.png)
+
 ## Integers
 Consider an *b*-bit vector
 > B = bn−1 ... b1b0
+
 
 
 
