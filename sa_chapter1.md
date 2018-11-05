@@ -73,9 +73,7 @@ In addition to the *ALU* and the *control circuitry*, the processor contains a n
  <li>If a word is to be read from the memory, the interface sends the address of that word to the memory along with a Read control       signal. The interface waits for the word to be retrieved, then transfers it to the appropriate processor register. If a word is to       be written into memory, the interface transfers both the address and the word to the memory along with a write control signal. </li>
  <ul>
   <details open>
-  <summary>
-    Operating Steps
-  </summary>
+  <summary>Operating Steps</summary>
     <ul>
       <li>A program must be in the main memory in order for it to be executed (It is often transferred there from secondary storage thorught the input unit)</li>
       <li>Execution of the program begins when the PC is set to point to the first instruction of the program. The contents of the PC are transferred to the memory along with a Read control signal</li>
@@ -83,6 +81,7 @@ In addition to the *ALU* and the *control circuitry*, the processor contains a n
   </ul>
     </details>
 </details>
+    
     
 In some cases to respond immediately, execution of the current program must be suspended. To cause this, the device raises an *interrupt* signal, which is a request for service by the processor The processor provides the requested service by executing a program called an *interrupt-service routine*. The processor saves its current state to the memory so that it can continue after the *interrupt-service routine* is completed.
 
