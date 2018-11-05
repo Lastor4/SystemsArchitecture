@@ -76,5 +76,26 @@ If a word is to be read from the memory, the interface sends the address of that
     
 In some cases to respond immediately, execution of the current program must be suspended. To cause this, the device raises an *interrupt* signal, which is a request for service by the processor The processor provides the requested service by executing a program called an *interrupt-service routine*. The processor saves its current state to the memory so that it can continue after the *interrupt-service routine* is completed.
 
-## Number Representation And Arithmetic Operations
-I need to get some sleep...
+# Number Representation And Arithmetic Operations
+The most natural way to represent a number in a computer system is by a string of bits,
+called a binary number.
+
+## Integers
+Consider an *b*-bit vector
+> B = bn−1 ... b1b0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
