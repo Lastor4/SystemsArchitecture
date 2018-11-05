@@ -4,6 +4,7 @@ https://vanreus37.github.io/
 # Systems Architecture 
 ## Important Links
 * [What To Read](sys_arch_wtr.pdf)
+* [What To Solve](sys_arch_wts.pdf)
 
 ## Book A - Summaries
 * [Systems Architecture Chapter 1](sa_chapter1.md)
