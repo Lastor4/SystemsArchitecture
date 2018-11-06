@@ -11,7 +11,7 @@
 
 ## Announcements
 * [User Announcements](announcements/sa_ann.md)
-
+      
 ## Personal Notes
 * [Antonia](group/antonia.md)
 * [Dave](group/dave.md)
