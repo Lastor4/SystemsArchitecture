@@ -10,7 +10,7 @@
 * ...
 
 ## Announcements
-* [User Announcements](sa_ann.md)
+* [User Announcements](announcements/sa_ann.md)
 
 ## Personal Notes
 * [Antonia](group/antonia.md)
