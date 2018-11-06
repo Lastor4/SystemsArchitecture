@@ -20,4 +20,10 @@
 * [Marta](group/marta.md)
 * [Surhay](group/surhay.md)
 
+## How to...
+* [How to edit texts](help/edit_text.md)
+* [How to organize your text](help/org_text.md)
+* [Where is my personal file](help/where_pers.md)
+* [Where is the annoucments text](help/where_ann.md)
+
 _Made by Surhay_
