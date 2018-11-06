@@ -19,8 +19,8 @@ A computer consists of five functionally independent main parts:
 - Processor
   - arithmetic and logic    
   - control units
-  
-![image](https://github.com/vanreus37/SystemsArchitecture/blob/master/images/onezero.png "Test")
+
+![Drag Racing](images/onezero.png)
   
 ## Input Unit
 Computers accept coded information through input units such as keyboards and things like that.
