@@ -9,6 +9,9 @@
 * [Systems Architecture Chapter 9](sa_chapter9.md)
 * ...
 
+## Announcements
+* [User Announcements](sa_ann.md)
+
 ## Personal Notes
 * [Antonia](group/antonia.md)
 * [Dave](group/dave.md)
