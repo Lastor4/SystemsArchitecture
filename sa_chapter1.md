@@ -122,10 +122,10 @@ The result is:
 2. There is a negative 0 
 
 ### 2's-complement
-Its almost like sign-and-magnitude you only need to change the leftmost value from 0 to 1. The results are accurate but it has extra one - number insted of -0.
-
+Its almost like sign-and-magnitude you only need to change the leftmost value from 0 to 1. The results are accurate but instead of -0 it has -8.
 **But there are some problems with this method.**
 1. -b<sub>i + 1</sub>
+2. Its harder to go from one positive to negative or opposite
 
 
 
