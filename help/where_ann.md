@@ -4,6 +4,6 @@
 
 ## The file
 
-![ann](/images/help/ann_loc.png)
+![ann](/images/ann_loc.png)
 
 # Dont forget to put spaces between your text and also mention your name below the text
