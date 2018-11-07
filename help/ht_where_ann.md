@@ -1,9 +1,9 @@
 ## Location of annoucments folder
 
-![Ann Text](/images/help/where_ann.png)
+![](whereann.png)
 
 ## The file
 
-![](/images/help/annloc.png)
+![](annloc.png)
 
 # Dont forget to put spaces between your text and also mention your name below the text
