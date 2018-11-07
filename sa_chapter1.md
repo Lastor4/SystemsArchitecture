@@ -88,9 +88,44 @@ called a binary number.
 
 ## Integers
 Consider an *b*-bit vector
-> B = bn−1 ... b1b0
+> B = b<sub>n-1</sub>...b<sub>1</sub>b<sub>0</sub>
 
+where b<sub>i</sub> = 0 or 1 for 0 ≤ i ≤ n − 1. This vector can represent an unsigned integer value
+V(B) in the range 0 to 2n − 1, where
 
+> V(*B*) = b<sub>n-1</sub> x 2<sup>n-1</sup> + ... + b<sub>1</sub> x 2<sup>1</sup> + b<sub>0</sub> 2<sup>0</sup>
+
+We need to represent both positive and negative numbers. Three systems are used for
+representing such numbers:
+* Sign-and-magnitude
+* 1's-complement
+* 2's-complement
+
+**In all three systems leftmost bit is 0 for positives and 1 for negatives. Positive values have identical representations in all systems, but negative values have different representations.**
+
+### Sign-and-Magnitude
+For the sign and magnitude method you only need to change the leftmost value from 0 to 1.
+
+**But there are some problems with this method.**
+1. if you add +5 to -5 to result should be 0 but in this method the result is 2
+2. There is a negative 0 
+3. The results are incorrect
+
+### 1's-complement
+For the *1's* method you only need to change 0's with 1's and 1's wih 0's. The results are off by one.
+The result is:
+
+> V(*B*) = (b<sub>n-1</sub> x 2<sup>n-1</sup> + ... + b<sub>1</sub> x 2<sup>1</sup> + b<sub>0</sub> 2<sup>0</sup>) + 1
+
+**But there are some problems with this method.**
+1. if you add (+5) to (-3) to result should be 2 but in this method the result is 1
+2. There is a negative 0 
+
+### 2's-complement
+Its almost like sign-and-magnitude you only need to change the leftmost value from 0 to 1. The results are accurate but it has extra one - number insted of -0.
+
+**But there are some problems with this method.**
+1. -b<sub>i + 1</sub>
 
 
 
