@@ -2,6 +2,7 @@
 * [What To Read](sys_arch_wtr.pdf)
 * [What To Solve](sys-arch-wts.pdf)
 * [The book](thebook.pdf)
+* [Course guide for self study](courseguide.pdf)
 
 ## Book A - Summaries
 * [Systems Architecture Chapter 1](sa_chapter1.md)
