@@ -130,6 +130,7 @@ Its almost like sign-and-magnitude you only need to change the leftmost value fr
 #### Binary add and substract
 **Substract:**
 https://www.youtube.com/watch?v=S9LJknZTyos
+
 **Add:**
 https://www.youtube.com/watch?v=RgklPQ8rbkg
 
