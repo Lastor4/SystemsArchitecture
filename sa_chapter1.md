@@ -127,6 +127,12 @@ Its almost like sign-and-magnitude you only need to change the leftmost value fr
 1. -b<sub>i + 1</sub>
 2. Its harder to go from one positive to negative or opposite
 
+#### Binary add and substract
+**Substract:**
+https://www.youtube.com/watch?v=S9LJknZTyos
+**Add:**
+https://www.youtube.com/watch?v=RgklPQ8rbkg
+
 ### Sign Extension
 The representations for the values −1, −2, etc., are exactly the same, with 1s added to the left.
 In summary, to represent a signed number in 2’s-complement form using a larger number
