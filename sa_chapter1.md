@@ -122,13 +122,19 @@ The result is:
 2. There is a negative 0 
 
 ### 2's-complement
-Its almost like sign-and-magnitude you only need to change the leftmost value from 0 to 1. The results are accurate but instead of -0 it has -8.
+Its almost like sign-and-magnitude you only need to change the leftmost value from 0 to 1. The results are accurate but instead of -0 it has -8 which means everything is fliped.
 **But there are some problems with this method.**
 1. -b<sub>i + 1</sub>
 2. Its harder to go from one positive to negative or opposite
 
+### Sign Extension
+The representations for the values −1, −2, etc., are exactly the same, with 1s added to the left.
+In summary, to represent a signed number in 2’s-complement form using a larger number
+of bits, repeat the sign bit as many times as needed to the left. This operation is called *sign
+extension.*
 
-
+## Floating-Numbers
+https://www.youtube.com/watch?v=D6HW2WozTJY
 
 
 
